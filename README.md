@@ -1,2 +1,2 @@
 # r_programming
-Programming Assignments from the Coursera MOOC "R Programming"
+Programming assignments from the Coursera MOOC "R Programming"
